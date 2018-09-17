@@ -13,7 +13,7 @@ namespace NewMyMathDll
             return a + b;
         }
 
-        public int Add2(int a, int b, int c)
+        public int Add(int a, int b, int c)
 
         {
             return a + b + c;
